@@ -7,6 +7,7 @@ https://github.com/ufal/neuralmonkey
 
 # Text Processing
 https://github.com/explosion/spaCy
+https://github.com/allenai/allennlp
 
 # Chatbot
 https://github.com/deepmipt/DeepPavlov
