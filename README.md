@@ -12,6 +12,9 @@ https://github.com/allenai/allennlp
 # Chatbot
 https://github.com/deepmipt/DeepPavlov
 
+# Natural Language Understanding
+https://github.com/snipsco/snips-nlu
+
 # Text Utils
 https://github.com/dedupeio/dedupe
 https://github.com/orsinium/textdistance
