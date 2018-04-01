@@ -4,6 +4,7 @@
 
 # Sequence Learning
 https://github.com/ufal/neuralmonkey
+https://github.com/Hironsan/anago
 
 # Text Processing
 https://github.com/explosion/spaCy
